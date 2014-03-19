@@ -1,4 +1,4 @@
 <?php 
-echo "This is an example PHP file";
-
+int a=12055;
+echo a;
 ?>
