@@ -1,3 +1,4 @@
-'this is just example'.
-'Hi'.
-'HHHHHHHH,,,'.
+<?php 
+echo "This is an example PHP file";
+
+?>
